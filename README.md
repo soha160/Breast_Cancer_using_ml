@@ -10,14 +10,16 @@ Dataset
 ->Target: Diagnosis (M = Malignant, B = Benign)
 
 
-Technologies Used
+Technologies Used:
+
 ->Python
 ->Scikit-learn
 ->Pandas
 ->NumPy
 ->Matplotlib / Seaborn
 
-Machine Learning Models
+Machine Learning Models:
+
 ->Logistic Regression
 ->Decision Tree Classifier
 ->Random Forest Classifier
